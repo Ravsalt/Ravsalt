@@ -1,4 +1,4 @@
-# 👋 Hi.
+# 👋 Hi
 
 Aspiring software engineer with a passion for web development and networking. I love creating efficient, user-friendly solutions and contributing to open-source projects.
 
