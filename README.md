@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Ravsalt
+# 👋 Hi, I'm Raven also known as Ravsalt
 
 Aspiring software engineer with a passion for web development and networking. I love creating efficient, user-friendly solutions and contributing to open-source projects.
 
