@@ -1,6 +1,8 @@
-# 👋 Hi
+<h1 align="center">👋 Hi</h1>
 
 Aspiring software engineer with a passion for web development and networking. I love creating efficient, user-friendly solutions and contributing to open-source projects.
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ravsalt&color=0e75b6&style=flat)
 
 ## About Me
 - 👀 I'm interested in web development, networking, and software engineering
