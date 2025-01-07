@@ -1,13 +1,12 @@
-<h1 align="center">👋 Hi</h1>
+<h1 align="center">👋 Hi I'm Raven </h1>
 
-Aspiring software engineer with a passion for web development and networking. I love creating efficient, user-friendly solutions and contributing to open-source projects.
+A passion for web development, AI, Robotics, Programing, and Networking..
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ravsalt&color=0e75b6&style=flat)
 
 ## About Me
 - 👀 I'm interested in web development, networking, and software engineering
 - 🌱 I'm currently learning Java and React
-- 💞️ I'm looking to collaborate on open-source projects involving Python or C/C++
 - 📫 How to reach me: ravpogi10@gmail.com
 - ⚡ Fun fact: I play acoustic music 🎸
 
