@@ -13,16 +13,19 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 - 🐧 Oh, and I use Arch, btw.
 
 ## 🛠️ My Skills
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Web Development](https://img.shields.io/badge/-Web%20Development-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-006699?style=flat-square&logo=cisco&logoColor=white)
 ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 <h2>🚀 My Side Projects</h2>
 
