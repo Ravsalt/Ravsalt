@@ -27,7 +27,7 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 <h2>🚀 My Side Projects</h2>
 
 <p align="center">
-  <a href="https://mangaph.ct.ws" target="_blank">
+  <a href="https://ravsalt.github.io/ai-portfolio" target="_blank">
     <img src="https://github.com/user-attachments/assets/5d1b1404-dbbb-458a-aa5a-ca2e4d4bb6b1" alt="AI" width="30%" style="margin: 10px;" />
   </a>
   
