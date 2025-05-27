@@ -92,9 +92,8 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 </table>
 
 ## 📊 GitHub Stats
-![GitHub stats](https://readme-statslol.vercel.app/api?username=Ravsalt&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://readme-statslol.vercel.app/api/top-langs/?username=Ravsalt&layout=compact&theme=radical)
+![GitHub Stats](https://readme-statslol.vercel.app/api?username=Ravsalt&show_icons=true&theme=highcontrast&count_private=true)
+![Top Languages](https://readme-statslol.vercel.app/api/top-langs/?username=Ravsalt&layout=compact&theme=highcontrast)
 
 
----
 *"I know it's hard, it's gonna be alright" 🌟*
