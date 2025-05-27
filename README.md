@@ -26,6 +26,11 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 ![Networking](https://img.shields.io/badge/-Networking-006699?style=flat-square&logo=cisco&logoColor=white)
 ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat-square&logo=openai&logoColor=white)
 
+## 📊 GitHub Stats
+![GitHub Stats](https://readme-statslol.vercel.app/api?username=Ravsalt&show_icons=true&theme=highcontrast&count_private=true)
+![Top Languages](https://readme-statslol.vercel.app/api/top-langs/?username=Ravsalt&layout=compact&theme=highcontrast)
+
+---
 
 <h2>🚀 My Side Projects</h2>
 
@@ -90,10 +95,6 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
     </td>
   </tr>
 </table>
-
-## 📊 GitHub Stats
-![GitHub Stats](https://readme-statslol.vercel.app/api?username=Ravsalt&show_icons=true&theme=highcontrast&count_private=true)
-![Top Languages](https://readme-statslol.vercel.app/api/top-langs/?username=Ravsalt&layout=compact&theme=highcontrast)
 
 
 *"I know it's hard, it's gonna be alright" 🌟*
