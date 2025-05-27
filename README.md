@@ -92,7 +92,6 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 </table>
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://readme-statslol.vercel.app/api?username=Ravsalt&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://readme-statslol.vercel.app/api/top-langs/?username=Ravsalt&layout=compact&theme=radical)
 
 
