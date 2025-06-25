@@ -20,11 +20,14 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Web Development](https://img.shields.io/badge/-Web%20Development-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-006699?style=flat-square&logo=cisco&logoColor=white)
 ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-4E8EE0?style=flat-square&logo=n8n&logoColor=white)
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://readme-statslol.vercel.app/api?username=Ravsalt&show_icons=true&theme=highcontrast&count_private=true)
