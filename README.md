@@ -90,10 +90,10 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
   </tr>
   <tr>
     <td align="center" colspan="3">
-      <a href="https://britisharmy.ct.ws" target="_blank">
-        <img src="https://github.com/user-attachments/assets/8445163d-7c34-4515-9b70-149ac9a72f56" alt="British Army RP" width="200px" /><br />
-        <strong>British Army RP</strong><br />
-        <sub>🎖️ Military-style RP project</sub>
+      <a href="https://lazyprompts.vercel.app" target="_blank">
+        <img src="https://github.com/user-attachments/assets/350e7fd4-1573-4495-8274-ed50ca490c24" alt="British Army RP" width="200px" /><br />
+        <strong>Lazyprompter</strong><br />
+        <sub>🤖 Generate AI prompts with ease</sub>
       </a>
     </td>
   </tr>
