@@ -7,7 +7,7 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 ## About Me
 - 👀 Passionate about **web development**, **networking**, **AI engineering**, and **software engineering**.
 - 🌱 Currently diving deep into **Machine Learning**, **Calculus**, and building **AI agents**.
-- 🎓 Started coding at **13**, now **18**, and kicking off my journey  in **Computer Science**.
+- 🎓 Started coding at **13**, now Freshmen, and kicking off my journey  in **Computer Science**.
 - 📫 Reach me at: ravpogi10@gmail.com
 - ⚡ Fun fact: I’m an acoustic guitarist 🎸—I create music just like I code: with precision and passion.
 - 🐧 Oh, and I use Arch, btw.
@@ -35,25 +35,22 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 ![g++](https://img.shields.io/badge/G++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Clang](https://img.shields.io/badge/Clang-404080?style=flat-square&logo=llvm&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-5A5A5A?style=flat-square&logo=nmap&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Cargo](https://img.shields.io/badge/Cargo-000000?style=flat-square&logo=rust&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-43B02A?style=flat-square&logo=pinecone&logoColor=white)
 
-## 🐧 Operating Systems I Use  And Experience (and Break)
+## 🐧 Operating Systems Ive Use And Experience (and Break)
 
-| Distro | My Experience |
-|--------|---------------|
-| ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) | ⚙️ My daily driver. Bleeding-edge, custom as hell... and yeah, it breaks sometimes. |
-| ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7C3AED?style=flat-square&logo=endeavouros&logoColor=white) | 🚀 Arch, but friendlier. Got bloated the longer I used it. Still solid. |
-| ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) | 🧱 Old and stable. Not flashy, but I like it — it just works. |
-| ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) | 🧑‍💻 Tried it — felt like a script kiddie. all the Preloaded tools and bloat, |
-| ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00bfff?style=flat-square&logo=parrot-security&logoColor=white) | 🕵️‍♂️ Better than Kali . Loaded with essential tools ... and I like the UI UX experience |
-| ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white) | 🧪 Modern and slick. GNOME is great — but it murders my laptop’s performance. |
-| ![Garuda Linux](https://img.shields.io/badge/Garuda_Linux-8A2BE2?style=flat-square&logo=garuda-linux&logoColor=white) | 🎨 Eye candy for days. Love the UI/UX, but laggy and bloated af on low-end machines. |
-| ![Exodia OS](https://img.shields.io/badge/Exodia_OS-000000?style=flat-square&logo=arch-linux&logoColor=white) | 💀 Arch-based hacker distro. Looks dope, has tools, gets bloated — still love it. |
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) 
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7C3AED?style=flat-square&logo=endeavouros&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00bfff?style=flat-square&logo=parrot-security&logoColor=white) 
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Garuda Linux](https://img.shields.io/badge/Garuda_Linux-8A2BE2?style=flat-square&logo=garuda-linux&logoColor=white) 
+![Exodia OS](https://img.shields.io/badge/Exodia_OS-000000?style=flat-square&logo=arch-linux&logoColor=white)
 
 
 ## 📊 GitHub Stats
