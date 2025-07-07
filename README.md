@@ -59,69 +59,89 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 
 ---
 
-<h2>🚀 My Side Projects</h2>
-
-<p align="center">
-  <em>Each project below is a battlefield-tested build — design, code, and execution by me.</em>
-</p>
-
+<h2 a>🚀 My Side Projects</h2>
 <table align="center">
+  <!-- Row 1 -->
   <tr>
-    <td align="center">
+    <td align="center" width="200px">
       <a href="https://ravsalt.github.io/ai-portfolio" target="_blank">
-        <img src="https://github.com/user-attachments/assets/5d1b1404-dbbb-458a-aa5a-ca2e4d4bb6b1" alt="AI Portfolio" width="200px" /><br />
-        <strong>AI Portfolio</strong><br />
-        <sub>🧠 Showcasing my AI projects & tools</sub>
+        <img src="https://github.com/user-attachments/assets/5d1b1404-dbbb-458a-aa5a-ca2e4d4bb6b1" width="200px"><br>
+        <strong>AI Portfolio</strong><br>
+        <sub>🧠 Showcasing my AI tools</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="200px">
       <a href="https://mangaph.ct.ws" target="_blank">
-        <img src="https://github.com/user-attachments/assets/355100d1-5eff-47d2-b8d5-4a53b17482ee" alt="MangaPH" width="200px" /><br />
-        <strong>MangaPH</strong><br />
+        <img src="https://github.com/user-attachments/assets/355100d1-5eff-47d2-b8d5-4a53b17482ee" width="200px"><br>
+        <strong>MangaPH</strong><br>
         <sub>📚 Mobile-first manga reader</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="200px">
       <a href="https://dreven.ct.ws" target="_blank">
-        <img src="https://github.com/user-attachments/assets/0c93e8ea-fb26-4661-88c9-6ce09809253c" alt="Dreven" width="200px" /><br />
-        <strong>Dreven (AI Chatbot)</strong><br />
-        <sub>🤖 NLP-based conversational AI</sub>
+        <img src="https://github.com/user-attachments/assets/0c93e8ea-fb26-4661-88c9-6ce09809253c" width="200px"><br>
+        <strong>Dreven (AI Chatbot)</strong><br>
+        <sub>🤖 NLP-based assistant</sub>
       </a>
     </td>
   </tr>
+
+  <!-- Row 2 -->
   <tr>
-    <td align="center">
+    <td align="center" width="200px">
       <a href="https://bookhubph.ct.ws" target="_blank">
-        <img src="https://github.com/user-attachments/assets/da32b979-3e78-4280-98a1-47e8fb425b71" alt="BookHubPH" width="200px" /><br />
-        <strong>BookHubPH</strong><br />
-        <sub>📖 A sleek online book library</sub>
+        <img src="https://github.com/user-attachments/assets/da32b979-3e78-4280-98a1-47e8fb425b71" width="200px"><br>
+        <strong>BookHubPH</strong><br>
+        <sub>📖 Sleek online book library</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="200px">
       <a href="https://islaweb.ct.ws" target="_blank">
-        <img src="https://github.com/user-attachments/assets/f7c08e8f-1c75-4c62-a70c-52e4612c5ab0" alt="IslaWeb" width="200px" /><br />
-        <strong>IslaWeb</strong><br />
+        <img src="https://github.com/user-attachments/assets/f7c08e8f-1c75-4c62-a70c-52e4612c5ab0" width="200px"><br>
+        <strong>IslaWeb</strong><br>
         <sub>🌴 Web design agency concept</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="200px">
       <a href="https://samp.ct.ws" target="_blank">
-        <img src="https://github.com/user-attachments/assets/e956f8a2-ebd3-4d6b-b0d5-dd66f9024e75" alt="SAMP" width="200px" /><br />
-        <strong>SAMP Server</strong><br />
-        <sub>🎮 Custom GTA multiplayer RP</sub>
+        <img src="https://github.com/user-attachments/assets/e956f8a2-ebd3-4d6b-b0d5-dd66f9024e75" width="200px"><br>
+        <strong>SAMP Server</strong><br>
+        <sub>🎮 GTA Multiplayer RP</sub>
       </a>
     </td>
   </tr>
+
+  <!-- Row 3 -->
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="200px">
       <a href="https://lazyprompts.vercel.app" target="_blank">
-        <img src="https://github.com/user-attachments/assets/350e7fd4-1573-4495-8274-ed50ca490c24" alt="British Army RP" width="200px" /><br />
-        <strong>Lazyprompter</strong><br />
-        <sub>🤖 Generate AI prompts with ease</sub>
+        <img src="https://github.com/user-attachments/assets/a9e1b913-5561-42e4-a2fd-5d2acdc42648" width="200px"><br>
+        <strong>Lazyprompter</strong><br>
+        <sub>✍️ Generate AI prompts</sub>
       </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://neurogen-v1.vercel.app" target="_blank">
+        <img src="https://github.com/user-attachments/assets/4e49f9b9-914e-4d64-bfe3-5eeae2cf164e" width="200px"><br>
+        <strong>NeuroGEN</strong><br>
+        <sub>🧠 Generate AI images</sub>
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://theo.ct.ws" target="_blank">
+        <img src="https://github.com/user-attachments/assets/3a8a5dcd-6e5e-464e-ba35-fcb654a2be21" width="200px"><br>
+        <strong>The project Theo</strong><br>
+        <sub>📖 AI-Powered Bible Reader & Chat Assistant</sub>
+      </a>
+    <td>
     </td>
   </tr>
 </table>
+
+
+
+
+
 
 
 *"I know it's hard, it's gonna be alright" 🌟*
