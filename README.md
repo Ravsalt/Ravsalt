@@ -130,7 +130,7 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
     <td align="center" width="200px">
       <a href="https://theo.ct.ws" target="_blank">
         <img src="https://github.com/user-attachments/assets/3a8a5dcd-6e5e-464e-ba35-fcb654a2be21" width="200px"><br>
-        <strong>The project Theo</strong><br>
+        <strong>The Project Theo</strong><br>
         <sub>📖 AI-Powered Bible Reader & Chat Assistant</sub>
       </a>
     <td>
