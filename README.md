@@ -40,6 +40,15 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Cargo](https://img.shields.io/badge/Cargo-000000?style=flat-square&logo=rust&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-43B02A?style=flat-square&logo=pinecone&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=flat-square&logo=clerk&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-FF6F00?style=flat-square&logo=convex&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+
+
+
 
 ## 🐧 Operating Systems Ive Use And Experience (and Break)
 
