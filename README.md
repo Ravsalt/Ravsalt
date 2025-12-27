@@ -64,6 +64,8 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 ![Exodia OS](https://img.shields.io/badge/Exodia_OS-000000?style=flat-square&logo=arch-linux&logoColor=white)
 
 
+![Shigure UI dancing](https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif)
+
 ## 📊 GitHub Stats
 
 <table align="center">
