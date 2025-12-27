@@ -64,7 +64,6 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 ![Exodia OS](https://img.shields.io/badge/Exodia_OS-000000?style=flat-square&logo=arch-linux&logoColor=white)
 
 
-![Shigure UI dancing](https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif)
 
 ## 📊 GitHub Stats
 
@@ -93,5 +92,11 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 
 
 ---
+
+<p float="left" align="center">
+  <img src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif" width="250" />
+  <img src="https://media.tenor.com/ADP4nszb5AcAAAAi/shigure-ui-dance.gif" width="250" />
+  <img src="https://media.tenor.com/NJeAh5aFOjsAAAAi/shigure-ui-dance.gif" width="250" />
+</p>
 
 *"I know it's hard, it's gonna be alright" 🌟*
