@@ -74,7 +74,7 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
   <tr>
     <td align="center">
       <img
-        src="https://readme-statslol.vercel.app/api?username=ravvdevv&show_icons=true&theme=highcontrast&count_private=true"
+        src="https://readme-statslol.vercel.app/api?username=ravvdevv&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true"
         alt="GitHub Stats"
       />
     </td>
