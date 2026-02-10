@@ -73,19 +73,19 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
   <tr>
     <td align="center">
       <img
-        src="https://readme-statslol.vercel.app/api?username=ravvdevv&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true"
+        src="https://readme-statslols.vercel.app/api?username=ravvdevv&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true"
         alt="GitHub Stats"
       />
     </td>
     <td align="center">
       <img
-        src="https://readme-statslol.vercel.app/api/top-langs/?username=ravvdevv&layout=compact&theme=highcontrast&count_private=true"
+        src="https://readme-statslols.vercel.app/api/top-langs/?username=ravvdevv&layout=compact&theme=highcontrast&count_private=true"
         alt="Top Languages"
       />
     </td>
     <td align="center">
       <img
-        src="https://readme-statslol.vercel.app/api/tech-stack?tech=React:90,Bun:90,Next.js:76,TailwindCSS:92,Vite:80,Shadcn:67&title=My%20Preferred%20Tech%20Stack&theme=highcontrast&layout=compact"
+        src="https://readme-statslols.vercel.app/api/tech-stack?tech=React:90,Bun:90,Next.js:76,TailwindCSS:92,Vite:80,Shadcn:67&title=My%20Preferred%20Tech%20Stack&theme=highcontrast&layout=compact"
         alt="My Preferred Tech Stack"
       />
     </td>
