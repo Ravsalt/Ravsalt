@@ -53,7 +53,7 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
 ![Capacitor JS](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=Capacitor&logoColor=white)
-
+![Wails](https://img.shields.io/badge/Wails-0F111A?style=flat-square&logo=Wails&logoColor=red)
 ## 🐧 Operating Systems Ive Use And Experience (and Break)
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) 
