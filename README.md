@@ -8,8 +8,9 @@ Driven by a passion for **web development**, **AI**, **robotics**, **programming
 - 👀 Passionate about **web development**, **networking**, **AI engineering**, and **software engineering**.
 - 🌱 Currently diving deep into **Machine Learning**, **Calculus**, and building **AI agents**.
 - 🎓 Started my journey at **13**, now kicking off my next chapter in **Computer Science**.
-- 📫 Reach me at: ravpogi10@gmail.com
 - ⚡ Fun fact: I’m an acoustic guitarist 🎸I create music just like I code: with precision and passion.
+- 📫 Reach me at: ravpogi10@gmail.com
+- 🌐 Portfolio: https://ravvdevv.vercel.app/
 - 🐧  I use Arch, btw.
 
 ## 🛠️ My Skills
